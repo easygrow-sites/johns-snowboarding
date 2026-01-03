@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "name": "Snowboard Rental",
+      "slug": "snowboard-rental",
+      "description": "Premium snowboard rentals for all skill levels. Choose from our extensive range of high-performance boards, from beginner-friendly all-mountain boards to advanced freeride and freestyle options. All rentals include board, bindings, and expert fitting service."
+    },
+    {
+      "name": "Boot Hire",
+      "slug": "boot-hire",
+      "description": "Comfortable, high-quality snowboard boots for hire. We stock all sizes and styles, ensuring perfect fit and support for your feet. Our boots feature modern lacing systems and cushioned liners for maximum comfort on the mountain."
+    },
+    {
+      "name": "Complete Package Hire",
+      "slug": "complete-package-hire",
+      "description": "Complete snowboard package including board, boots, bindings, helmet, and goggles. Everything you need for a perfect day on the slopes, professionally fitted and maintained. Save money with our bundled package deals."
+    },
+    {
+      "name": "Kids Snowboard Hire",
+      "slug": "kids-snowboard-hire",
+      "description": "Specialized snowboard equipment for children and teens. Age-appropriate boards, boots, and safety gear designed specifically for young riders. Our staff are experienced in fitting kids equipment for maximum safety and fun."
+    },
+    {
+      "name": "Beginner Snowboard Package",
+      "slug": "beginner-snowboard-package",
+      "description": "Perfect starter package for first-time snowboarders. Forgiving, easy-to-ride boards with soft bindings and comfortable boots. Includes basic instruction on equipment use and safety tips to get you started with confidence."
+    },
+    {
+      "name": "Advanced Performance Rental",
+      "slug": "advanced-performance-rental",
+      "description": "High-performance snowboards for experienced riders. Latest models from top brands, including powder boards, park boards, and all-mountain chargers. Premium bindings and boots for riders who demand the best."
+    },
+    {
+      "name": "Snowboard Tuning and Maintenance",
+      "slug": "snowboard-tuning-maintenance",
+      "description": "Professional snowboard tuning and maintenance services. Edge sharpening, base repair, waxing, and binding adjustments. Keep your board in peak condition with our expert technicians who service hundreds of boards every season."
+    },
+    {
+      "name": "Seasonal Hire",
+      "slug": "seasonal-hire",
+      "description": "Long-term seasonal snowboard hire for frequent riders. Cost-effective option for those planning multiple trips throughout the season. Includes free equipment swaps, tuning services, and storage between trips."
+    },
+    {
+      "name": "Group Rental Packages",
+      "slug": "group-rental-packages",
+      "description": "Special packages for groups, schools, and corporate events. Discounted rates for 5+ people with dedicated service and group fitting appointments. Perfect for ski trips, team building events, and school camps."
+    },
+    {
+      "name": "Helmet and Safety Gear Hire",
+      "slug": "helmet-safety-gear-hire",
+      "description": "Essential safety equipment including certified helmets, impact protection, wrist guards, and protective padding. All safety gear is sanitized and inspected after each use. Available for all ages and sizes."
+    },
+    {
+      "name": "Goggle and Accessories Rental",
+      "slug": "goggle-accessories-rental",
+      "description": "High-quality goggles, gloves, and snow accessories for hire. UV-protective lenses, anti-fog technology, and weatherproof gloves. Complete your setup with our range of rental accessories."
+    },
+    {
+      "name": "Same Day Express Hire",
+      "slug": "same-day-express-hire",
+      "description": "Fast-track rental service for last-minute bookings. Skip the queues with our express service, perfect for spontaneous snow trips. Online booking available with priority fitting when you arrive."
+    }
+  ]
+}
